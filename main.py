@@ -6,4 +6,6 @@ if a > b:
 else:
     print(b)
 
+# Ko'proq ishla!
+
     
