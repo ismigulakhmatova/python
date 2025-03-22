@@ -8,4 +8,5 @@ else:
 
 # Ko'proq ishla!
 
+# Xo'p bo'ladi!
     
